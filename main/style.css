@@ -37,7 +37,7 @@ body {
   .img-container {
     background-image: url("./blob.svg");
     background-repeat: no-repeat;
-    background-position: left;
+    background-position: center;
   }
   
   .pokemon-block p {
